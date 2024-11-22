@@ -1,0 +1,23 @@
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.csproj.AssemblyReference.cache
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.AssemblyInfoInputs.cache
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.AssemblyInfo.cs
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.csproj.CoreCompileInputs.cache
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.sourcelink.json
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\Order Management System.exe
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\Order Management System.deps.json
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\Order Management System.runtimeconfig.json
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\Order Management System.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\Order Management System.pdb
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Ma.D318B10C.Up2Date
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\refint\Order Management System.dll
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.pdb
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\Order Management System.genruntimeconfig.cache
+C:\Users\radit\Desktop\SQL Server Management Studio and dot net\Order Management System\obj\Debug\net6.0\ref\Order Management System.dll
